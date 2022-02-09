@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="issoverhead" />
+    <orderEntry type="module" module-name="day-33" />
+    <orderEntry type="module" module-name="t-kinter-palette" />
+    <orderEntry type="module" module-name="5.3 kanye-quotes-start" />
+    <orderEntry type="module" module-name="flash-card-project" />
+  </component>
+</module>
